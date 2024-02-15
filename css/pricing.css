@@ -1,0 +1,413 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none !important;
+}
+img{
+    vertical-align: middle;
+}
+li{
+    list-style: none;
+}
+
+/* navbar part start  */
+
+.nav_main{
+    background-color: #1C1E53 !important;
+}
+.nav_main ul li a{
+    color: aliceblue !important;
+    margin: 0 16px !important;
+}
+
+.nav_button{
+    border: 1px solid #F4F6FC !important;
+    padding: 16px 25px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    transition: .5s;
+    -webkit-transition: .5s;
+    -moz-transition: .5s;
+    -ms-transition: .5s;
+    -o-transition: .5s;
+}
+
+.nav_button:hover{
+    background-color:  #FCD980;
+    color: #1C1E53;
+}
+/* navbar part end */
+
+/* pricing part start*/
+#pricing{
+    padding: 100px 0;
+}
+.pricing_part_two{
+    padding: 50px 0;
+}
+.pricing_box{
+    border: 1px solid #0d0e2deb;
+    padding: 50px ;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+    background-color: 
+    #F4F6FC;
+}
+.pricing_box:hover{
+    background-color: #1c1e53a7;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.Plans h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+    color: #282938;
+}
+.Plans p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #1C1E53;
+}
+.box_number h4{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 56px;
+    color: #282938;
+}
+.box_number p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #1C1E53;
+}
+.pricing_box h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #1C1E53;
+}
+.pricing_box p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #1C1E53;
+}
+.pricing_box h5{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #1C1E53;
+}
+
+.box_button a{
+    border: 1px solid #1C1E53;
+    padding: 10px 15px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    background-color: #1C1E53;
+    color: #ffffff;
+    transition: .5s;
+    -webkit-transition: .5s;
+    -moz-transition: .5s;
+    -ms-transition: .5s;
+    -o-transition: .5s;
+}
+
+.box_button a:hover{
+    background-color: #FCD980;
+}
+/*pricing part end  */
+
+
+
+/*Frequently  part start*/
+#Frequently{
+    padding: 100px 0;
+}
+.asked h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 56px;
+    color: #282938;
+}
+.asked p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    color: #282938;
+    align-items: center;
+}
+
+/* Frequently part end */
+
+
+/* footer part start */
+#footer{
+    background-color: #1C1E53 !important;
+    padding-top:100px ;
+}
+
+.logo_part p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #ffffff;
+}
+
+.lets_part h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+    color: #ffffff;
+}
+
+.lets_part p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #ffffff;
+}
+.footer_fast_icon i{
+    color: #F4F6FC !important;
+}
+
+
+.footer_email_part{
+    background-color: #FCD980;
+}
+
+.footer_last{
+    background-color: #ffffff;
+    padding: 20px 0;
+    
+}
+.footer_last ul li a {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color:#282938;
+    margin: 10px 5px !important;
+}
+.com h4{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color:#282938;
+}
+
+/* footer part end */
+
+
+
+
+
+
+@media(max-width:767px){
+           /* navbar part start */
+
+           .nav_main i{
+            color: #ffffff;
+        }
+        .navbar-toggler {
+            border:2px solid #ffffff !important;
+    
+        }
+        /* navbar part end */
+}
+
+@media(max-width:575px){
+    
+
+    /* pricing part start */
+    #pricing {
+        padding: 10px 0;
+    }
+    .Plans h3 {
+        font-size: 43px;
+    }
+    .Plans p {
+        font-size: 21px;
+    }
+
+    .pricing_box {
+        padding: 41px;
+        margin: 20px;
+    }
+
+    .box_number h4 {
+        font-size: 34px;
+    }
+    .pricing_box p {
+        font-size: 19px;
+        margin: 15px;
+    }
+    .pricing_box h3 {
+        font-size: 27px;
+    }
+    /*pricing part end  */
+
+    /* Frequently part start */
+    #Frequently {
+        padding: 0px 0;
+    }
+    /* Frequently part end */
+
+
+    .footer_last ul li a {
+        margin: 10px -4px !important;
+    }
+}
+
+
+@media(min-width:576px) and (max-width:767px){
+ 
+
+
+    /* pricing part start */
+    #pricing {
+        padding: 34px 0;
+    }
+    .Plans h3 {
+        font-size: 35px;
+    }
+    .Plans p {
+        font-size: 15px;
+    }
+    .pricing_part_two {
+        padding: 21px 0;
+    }
+    .pricing_box {
+        padding: 20px;
+    }
+    .pricing_box h3 {
+        font-size: 24px;
+    }
+    .pricing_box p {
+        font-size: 15px;
+        margin: 5px;
+    }
+    .pricing_box h5 {
+        font-size: 13px;
+        line-height: 22px;
+    }
+    .box_button a {
+        padding: 8px 10px;
+    }
+    /* pricing part end */
+
+
+
+    .asked h3 {
+        font-size: 35px;
+    }
+    .asked p {
+        font-size: 19px;
+    }
+
+
+
+
+
+
+    .lets_part h3 {
+        font-size: 43px;
+        line-height: 38px;
+    }
+    .lets_part p {
+        line-height: 25px;
+    }
+
+    
+    /* footer part start */
+    #footer {
+        padding-top: 55px;
+    }
+    .lets_part h3 {
+        font-size: 37px;
+        line-height: 31px;
+    }
+
+    .com h4 {
+        font-size: 10px;
+        line-height: 23px;
+    }
+    .footer_last ul li a {
+        margin: 10px -9px !important;
+    }
+    /* footger part end */
+
+
+}
+
+@media(min-width:768px) and (max-width:991.98px){
+
+    /* navbar part start */
+    .nav_main ul li a {
+        margin: 0 3px !important;
+    }
+    .nav_button {
+        padding: 10px 14px;
+    }
+    /* navbar part end */
+
+
+
+    /* pricing part start */
+
+    #pricing {
+        padding: 60px 0;
+    }
+
+    .Plans h3 {
+        font-size: 43px;
+        line-height: 40px;
+    }
+    .Plans p {
+        font-size: 19px;
+    }
+    .box_number h4 {
+        font-size: 32px;
+        line-height: 51px;
+    }
+    .pricing_box p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    /* pricing part end */
+
+
+
+    /* Frequently part start */
+
+    #Frequently {
+        padding: 10px 0;
+    }
+    /* Frequently part end  */
+
+}

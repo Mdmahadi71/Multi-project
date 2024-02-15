@@ -1,0 +1,394 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none !important;
+}
+img{
+    vertical-align: middle;
+}
+li{
+    list-style: none;
+}
+
+/*navbar part start  */
+
+.nav_main{
+    background-color: #1C1E53 !important;
+}
+.nav_main ul li a{
+    color: aliceblue !important;
+    margin: 0 16px !important;
+}
+
+.nav_button{
+    border: 1px solid #F4F6FC !important;
+    padding: 16px 25px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    transition: .5s;
+    -webkit-transition: .5s;
+    -moz-transition: .5s;
+    -ms-transition: .5s;
+    -o-transition: .5s;
+}
+
+.nav_button:hover{
+    background-color:  #FCD980;
+    color: #1C1E53;
+}
+
+
+
+/* navbar part end */
+
+/* Student part start*/
+#Student{
+    padding: 50px 0;
+}
+
+.banner_img {
+    padding: 20px 0;
+}
+
+.blog_text h2{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+    color: #282938;
+}
+
+
+.blog_text h4{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+}
+
+.blog_text p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+}
+
+
+.blog_button a{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+}
+.blog_button a:hover{
+    border: 1px solid #F4F6FC !important;
+    padding: 16px 25px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    transition: .5s;
+    -webkit-transition: .5s;
+    -moz-transition: .5s;
+    -ms-transition: .5s;
+    -o-transition: .5s;
+    background-color: #FCD980 !important;
+}
+/* student part end */
+
+
+/* blog_last part start */
+
+
+#blog_last{
+    padding: 70px 0;
+}
+
+.blog_box_all{
+    padding: 30px 0;
+}
+.blog_last_box{
+    border: 1px solid #ffffff;
+    padding: 10px;
+    margin: 20px 0;
+}
+.blog_last_box h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    color: #282938;
+    margin-top: 10px;
+}
+.blog_last_box h4{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+}
+
+.blog_last_box p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+}
+
+.last_button a{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+}
+
+.last_button a:hover{
+    border: 1px solid #F4F6FC !important;
+    padding: 10px 15px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    transition: .5s;
+    -webkit-transition: .5s;
+    -moz-transition: .5s;
+    -ms-transition: .5s;
+    -o-transition: .5s;
+    background-color: #FCD980 !important;
+}
+.blog_last_main h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+    color: #282938;
+}
+
+/* bolg_last_part end */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* footer part start */
+#footer{
+    background-color: #1C1E53 !important;
+    padding-top:100px ;
+}
+
+.logo_part p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #ffffff;
+}
+
+.lets_part h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+    color: #ffffff;
+}
+
+.lets_part p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color: #ffffff;
+}
+.footer_fast_icon i{
+    color: #F4F6FC !important;
+}
+
+
+.footer_email_part{
+    background-color: #FCD980;
+}
+
+.footer_last{
+    background-color: #ffffff;
+    padding: 20px 0;
+    
+}
+.footer_last ul li a {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color:#282938;
+    margin: 10px 5px !important;
+}
+.com h4{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    color:#282938;
+}
+
+/* footer part end */
+
+
+
+/* responsive part start */
+
+
+
+@media(max-width:767px){
+    /* navbar part start */
+
+    .nav_main i{
+     color: #ffffff;
+ }
+ .navbar-toggler {
+     border:2px solid #ffffff !important;
+
+ }
+ /* navbar part end */
+
+}
+
+
+
+@media(max-width:575px){
+
+    /* Student part start */
+    .blog_text h2 {
+        font-size: 39px;
+        line-height: 46px;
+    }
+
+    /* Student part end */
+
+    /* blog_last part start */
+
+    #blog_last {
+        padding: 15px 0;
+    }
+    .blog_last_box h3 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .blog_last_box p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    /* blog_last part end */
+
+    /* footer part start */
+
+    .footer_last ul li a {
+        margin: 10px -2px !important;
+    }
+
+    /* footer part end */
+}
+
+
+
+@media(min-width:576px) and (max-width:767px){
+
+    /* student part start */
+    .blog_text h2 {
+        font-size: 43px;
+        line-height: 56px;
+    }
+    /* student part end */
+
+    /*  blog_last part start*/
+    #blog_last {
+        padding: 20px 0;
+    }
+    .blog_last_box h3 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    /*blog_last part end  */
+
+    /* footer part start */
+    .lets_part h3 {
+        font-size: 40px;
+        line-height: 34px;
+    }
+    .lets_part p {
+        line-height: 24px;
+    }
+    /* footer part end */
+}
+
+
+
+@media(min-width:768px) and (max-width:991.98px){
+
+    /* navbar part start */
+    .nav_main ul li a {
+        margin: 0 3px !important;
+    }
+    .nav_button {
+        padding: 9px 15px;
+    }
+    /* navbar part end */
+    /* blog_last part start */
+
+    #blog_last {
+        padding: 25px 0;
+    }
+    .blog_last_main h3 {
+        font-size: 42px;
+    }
+    .blog_last_box h3 {
+        font-size: 19px;
+        line-height: 27px;
+    }
+    .blog_last_box h4 {
+        font-size: 15px;
+    }
+
+    /* blog_last part end */
+
+    /* footer part start */
+
+    .lets_part h3 {
+        font-size: 43px;
+        line-height: 42px;
+    }
+    .footer_last ul li a {
+        font-size: 15px;
+        margin: 10px -3px !important;
+    }
+
+    /* footer part end */
+}
+
+
+
+/* responsive part end */
